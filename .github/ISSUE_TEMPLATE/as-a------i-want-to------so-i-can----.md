@@ -1,11 +1,17 @@
 ---
-name: As a ..., I want to ..., so I can ...
+name: Time to reduce menu management user story
 about: Create a new user story
-title: "[FEATURE] As a ..., I want to ..., so I can ..."
-labels: user story
+title: "I want to ..., so I can ..."
+labels: user story, reduce timie to manage menu
 assignees: ''
 
 ---
+# Story
+In order to reduce time to manage menus
+As a ...
+I want to ...
+because ...
+so that ...
 
 # Acceptance criteria
 - [ ] Given ..., When ..., Then...
